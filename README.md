@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebvstiansoto&show_icons=true&theme=dracula)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebvstiansoto)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 sebvstiansoto/sebvstiansoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
